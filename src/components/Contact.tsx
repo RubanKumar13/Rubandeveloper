@@ -251,7 +251,7 @@ const Contact = () => {
             className="mt-16 text-center"
           >
             <p className="text-gray-500">
-              © 2024 Java Full Stack Developer. Built with React & TailwindCSS
+              © 2025 Portfolio. Designed By RubanKumar &hearts;
             </p>
           </motion.div>
         </motion.div>
